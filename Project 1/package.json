@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kaden530/Web-Services#readme",
   "dependencies": {
+    "dotenv": "^16.4.0",
     "mongodb": "^6.3.0"
   }
 }
